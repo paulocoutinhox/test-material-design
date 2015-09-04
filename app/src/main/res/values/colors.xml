@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorPrimary" type="color">#ffff5b00</item>
+    <item name="colorPrimaryDark" type="color">#ffd35600</item>
+    <item name="colorAccent" type="color">#ffff5b00</item>
+
+    <item name="textColorPrimary" type="color">#666</item>
+    <item name="textColorSecondary" type="color">#666</item>
+    <item name="textColor" type="color">#222</item>
+
+    <color name="iconColor">@android:color/white</color>
+    <color name="navigationBarColor">@color/colorPrimary</color>
+    <!--
+    <item name="seekBarBackground" type="color">#888</item>
+    <item name="seekBarProgress" type="color">@color/colorPrimary</item>
+    <item name="seekBarSecondaryProgress" type="color">@color/colorPrimaryDark</item>
+    <item name="seekBarThumbFillStroke" type="color">#FF00FF</item>
+    <item name="seekBarThumbFill" type="color">#00FF00</item>
+    -->
+</resources>
